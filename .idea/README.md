@@ -35,7 +35,7 @@ a monitoring and scrapping Big Data sofware in order to find anything, anywhere,
 </p>
 <p align="center">
 <img src="/images/ez.PNG" alt="Project Image" width="300" height="250">
-<img src="/images/Capture.PNG" alt="Project Image" width="350" height="250">
+<img src="/images/Capture.PNG" alt="Project Image" width="420" height="250">
 </p>
 
 
