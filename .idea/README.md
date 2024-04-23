@@ -3,9 +3,11 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Cargaison&show_icons=true&theme=radical)
 
 ##  My Skills
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cargaison&layout=compact)](https://github.com/Cargaison)
-
+![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=Python&logoColor=white&labelColor=306998)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=JavaScript&logoColor=white&labelColor=F0DB4F)
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat&logo=HTML5&logoColor=white&labelColor=E34C26)
+![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat&logo=CSS3&logoColor=white&labelColor=1572B6)
+![React](https://img.shields.io/badge/-React-000?style=flat&logo=React&logoColor=white&labelColor=61DBFB)
 ##  I’m currently learning
 
 [![Willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Cargaison)](https://github.com/Cargaison)
@@ -18,8 +20,8 @@
 
 ##  Contact Me
 
-* My email: `<email>`
-* LinkedIn: `<link>`
+* My email: `maxence.leclercq@truefalse.fr`
+* LinkedIn: `https://www.linkedin.com/in/maxence-leclercq-94195b222/`
 
 > **Note**: Don't forget to replace `Cargaison`, `<repo1>`, `<repo2>` and other placeholder content with your actual data.
 
