@@ -1,8 +1,8 @@
 # Maxence Leclercq - Physic Enjoyer, merge error enthusiast
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Cargaison.repoName) [![GitHub followers](https://img.shields.io/github/followers/Cargaison.svg?style=social&label=Follow)](https://github.com/Cargaison?tab=followers)<br/>
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Cargaison-hash.repoName) [![GitHub followers](https://img.shields.io/github/followers/Cargaison-hash.svg?style=social&label=Follow)](https://github.com/Cargaison-hash?tab=followers)<br/>
 
 <!--
-**Cargaison/Cargaison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cargaison-hash/Cargaison-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
@@ -23,11 +23,11 @@ __Check out my GitHub repository:__
 
 <div>
   <p>
-    <a href="https://github.com/Cargaison/HotelFranchiseDBMS.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cargaison&repo=HotelFranchiseDBMS" alt="GitHub Stats" />
+    <a href="https://github.com/Cargaison-hash/HotelFranchiseDBMS.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cargaison-hash&repo=HotelFranchiseDBMS" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/Cargaison/Linux-Shell-Implementation.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cargaison&repo=Linux-Shell-Implementation" alt="GitHub Stats" />
+    <a href="https://github.com/Cargaison-hash/Linux-Shell-Implementation.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cargaison-hash&repo=Linux-Shell-Implementation" alt="GitHub Stats" />
     </a>
   </p>
 </div>
@@ -38,19 +38,19 @@ __Check out my GitHub repository:__
 <div>
 <!--   <p align="center">
     <b><em>Now listening to:</em></b> <br/>
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=Cargaison&cover_image=true&theme=novatorem" alt="Now Listenting to" />
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=Cargaison-hash&cover_image=true&theme=novatorem" alt="Now Listenting to" />
   </p> -->
   
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cargaison" alt="GitHub Stats" /> <br/><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cargaison-hash" alt="GitHub Stats" /> <br/><br/>
   
 </div>
 
-![My github status](https://github-readme-stats.vercel.app/api?username=Cargaison&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cargaison&layout=compact)
+![My github status](https://github-readme-stats.vercel.app/api?username=Cargaison-hash&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cargaison-hash&layout=compact)
 
 ---------------------------------------------------------------------------------------------------------------------
-Credits: <a href="https://github.com/Cargaison">Cargaison</a>
+Credits: <a href="https://github.com/Cargaison-hash">Cargaison-hash</a>
 
 Date: 18/11/2021
