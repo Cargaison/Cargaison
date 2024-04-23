@@ -1,4 +1,4 @@
-Welcome. I am Maxence Leclercq
+# Welcome. I am Maxence Leclercq
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Cargaison&show_icons=true&theme=radical)
 
 ##  My Skills
@@ -30,9 +30,7 @@ Welcome. I am Maxence Leclercq
 </p>
 
 ##  My projects
-<p align="center">
-  <img src="images/Capture.png" alt="Conceptual Image" width="500">
-</p>
+![Project Image](/images/Capture.png)
 ##  Contact Me
 
 * My email: `maxence.leclercq@truefalse.fr`
