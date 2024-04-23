@@ -30,7 +30,10 @@
 </p>
 
 ##  My projects
+<p align="center">
 a monitoring and scrapping Big Data sofware in order to find anything, anywhere, anytime in an easy interface.
+</p>
+
 ![Project Image](/images/Capture d’écran 2024-03-03 152119.png)
 ![Project Image](/images/Capture.PNG)
 
