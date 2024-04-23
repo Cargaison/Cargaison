@@ -45,8 +45,5 @@ a monitoring and scrapping Big Data sofware in order to find anything, anywhere,
 * My email: `maxence.leclercq@truefalse.fr`
 * LinkedIn: `https://www.linkedin.com/in/maxence-leclercq-94195b222/`
 
-> **Note**: Don't forget to replace `Cargaison`, `<repo1>`, `<repo2>` and other placeholder content with your actual data.
 
-You can customize your `github-readme-stats` cards [here](https://github.com/anuraghazra/github-readme-stats)
 
-The image links provided will be generated using your Github stats data. However, in order for this to work, you need to host your README file in a project that's set to public.
