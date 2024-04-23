@@ -1,38 +1,23 @@
-# Bienvenue sur mon profil GitHub 👋
+#  Hi there 👋, I'm Cargaison !
 
-![Quantum Physics Animation](URL_TO_ANIMATION)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Cargaison&show_icons=true&theme=radical)
 
-## À propos de moi
+## 🔭 My Skills
 
-Je suis [Votre nom], un passionné de physique quantique avec une expertise en [votre domaine d'expertise]. J'ai travaillé sur [mentionnez quelques projets ou expériences pertinentes].
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cargaison&layout=compact)](https://github.com/Cargaison)
 
-- 🔭 Actuellement, je travaille sur [votre projet actuel].
-- 🌱 J'apprends actuellement [sujet ou technologie que vous étudiez].
-- 👯 Je cherche à collaborer sur [type de projets].
-- 🤔 Je cherche de l'aide avec [sujet ou projet].
-- 💬 Demandez-moi à propos de [sujets ou technologies].
-- 📫 Comment me joindre: [votre email ou autre contact].
-- 😄 Pronoms: [vos pronoms].
-- ⚡ Fun fact: [un fait amusant sur vous].
+## 🌱 I’m currently learning
 
-## Compétences
+[![Willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Cargaison)](https://github.com/Cargaison)
 
-![Votre Langage de Programmation](https://img.shields.io/badge/-Langage-000?style=flat&logo=LangageLogo&logoColor=white&labelColor=51C4D3)
-![Autre Technologie](https://img.shields.io/badge/-Technologie-000?style=flat&logo=TechnologieLogo&logoColor=white&labelColor=51C4D3)
+## 💼 Work Experience
 
-## Contributions Graphiques
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cargaison&repo=repo1)](https://github.com/Cargaison/repo1)
 
-![Mes Contributions](https://ghchart.rshah.org/409ba5/votre_nom_utilisateur)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cargaison&repo=repo2)](https://github.com/Cargaison/repo2)
 
-## Statistiques GitHub
+## 💬 Contact Me
 
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=votre_nom_utilisateur&show_icons=true&theme=radical)
+* My email: `<maxence.leclercq@truefalse.fr>`
+* LinkedIn: `<https://www.linkedin.com/in/maxence-leclercq-94195b222/>`
 
-## Projets en vedette
-
-- [Nom du Projet](lien-vers-le-projet)
-    - Courte description du projet. Ce que j'ai appris, les défis rencontrés et les compétences développées.
-
-## Certifications et Formations
-
-- [Nom de la certification](lien vers la certification) - Établissement, Année
