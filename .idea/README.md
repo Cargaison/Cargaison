@@ -1,56 +1,42 @@
-# Maxence Leclercq - Physic Enjoyer, merge error enthusiast
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Cargaison-hash.repoName) [![GitHub followers](https://img.shields.io/github/followers/Cargaison-hash.svg?style=social&label=Follow)](https://github.com/Cargaison-hash?tab=followers)<br/>
+# Bienvenue sur mon profil GitHub 👋
 
-<!--
-**Cargaison-hash/Cargaison-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+## À propos de moi
 
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+Je suis [Votre nom], un passionné de développement logiciel avec une expertise en [votre domaine d'expertise]. J'ai travaillé sur des projets impliquant [mentionnez quelques projets ou expériences pertinentes].
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+- 🔭 Actuellement, je travaille sur [votre projet actuel].
+- 🌱 J'apprends actuellement [sujet ou technologie que vous étudiez].
+- 👯 Je cherche à collaborer sur [type de projets].
+- 🤔 Je cherche de l'aide avec [sujet ou projet].
+- 💬 Demandez-moi à propos de [sujets ou technologies].
+- 📫 Comment me joindre: [votre email ou autre contact].
+- 😄 Pronoms: [vos pronoms].
+- ⚡ Fun fact: [un fait amusant sur vous].
 
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web designing, Android development, and digital marketing**
-- 🌱 I’m currently learning ...
-  - Java
-  - React js
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
+## Mes statistiques GitHub
 
-__Check out my GitHub repository:__
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Cargaison&show_icons=true&theme=radical)
 
-<div>
-  <p>
-    <a href="https://github.com/Cargaison-hash/HotelFranchiseDBMS.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cargaison-hash&repo=HotelFranchiseDBMS" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/Cargaison-hash/Linux-Shell-Implementation.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cargaison-hash&repo=Linux-Shell-Implementation" alt="GitHub Stats" />
-    </a>
-  </p>
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cargaison&theme=default)
 
+![Graphique d'Activité GitHub](https://activity-graph.herokuapp.com/graph?username=Cargaison&theme=xcode)
 
-<h2>👀 My github Stats</h2>
+![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=Cargaison&row=1&theme=flat)
 
-<div>
-<!--   <p align="center">
-    <b><em>Now listening to:</em></b> <br/>
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=Cargaison-hash&cover_image=true&theme=novatorem" alt="Now Listenting to" />
-  </p> -->
-  
-  <p align="center">
-  <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cargaison-hash" alt="GitHub Stats" /> <br/><br/>
-  
-</div>
+## Compétences
 
-![My github status](https://github-readme-stats.vercel.app/api?username=Cargaison-hash&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cargaison-hash&layout=compact)
+![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=Python&logoColor=white&labelColor=306998)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=JavaScript&logoColor=white&labelColor=F0DB4F)
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat&logo=HTML5&logoColor=white&labelColor=E34C26)
+![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat&logo=CSS3&logoColor=white&labelColor=1572B6)
+![React](https://img.shields.io/badge/-React-000?style=flat&logo=React&logoColor=white&labelColor=61DBFB)
 
----------------------------------------------------------------------------------------------------------------------
-Credits: <a href="https://github.com/Cargaison-hash">Cargaison-hash</a>
+## Projets en vedette
 
-Date: 18/11/2021
+- [Nom du Projet](lien-vers-le-projet)
+    - Courte description du projet. Ce que j'ai appris, les défis rencontrés et les compétences développées.
+
+## Certifications et Formations
+
+- [Nom de la certification](lien vers la certification) - Établissement, Année
+
