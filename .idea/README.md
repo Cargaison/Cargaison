@@ -2,16 +2,8 @@
 
 ## À propos de moi
 
-Je suis [Votre nom], un passionné de développement logiciel avec une expertise en [votre domaine d'expertise]. J'ai travaillé sur des projets impliquant [mentionnez quelques projets ou expériences pertinentes].
+Je suis Maxence Leclercq, un passionné de développement logiciel.  J'ai travaillé sur des projets impliquant du front end, du back end, des middleswares, de la gestion réseaux, des bases de stockage, et ceux dans la plupart des langages associés.
 
-- 🔭 Actuellement, je travaille sur [votre projet actuel].
-- 🌱 J'apprends actuellement [sujet ou technologie que vous étudiez].
-- 👯 Je cherche à collaborer sur [type de projets].
-- 🤔 Je cherche de l'aide avec [sujet ou projet].
-- 💬 Demandez-moi à propos de [sujets ou technologies].
-- 📫 Comment me joindre: [votre email ou autre contact].
-- 😄 Pronoms: [vos pronoms].
-- ⚡ Fun fact: [un fait amusant sur vous].
 
 ## Mes statistiques GitHub
 
