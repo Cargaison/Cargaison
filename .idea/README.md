@@ -33,6 +33,10 @@
 <p align="center">
 a monitoring and scrapping Big Data sofware in order to find anything, anywhere, anytime in an easy interface.
 </p>
+<p align="center">
+  <img src="/images/ez.PNG" alt="Project Image" width="300" height="200">
+</p>
+
 
 ![Project Image](/images/ez.PNG)
 ![Project Image](/images/Capture.PNG)
