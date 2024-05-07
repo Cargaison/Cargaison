@@ -1,5 +1,7 @@
 # Welcome. I am Maxence Leclercq
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Cargaison&show_icons=true&theme=radical)
+## My trophies
+![](https://github-profile-trophy.vercel.app/?username=Cargaison&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ##  My Skills
 ![C](https://img.shields.io/badge/-C-000?style=flat&logo=C&logoColor=white&labelColor=A8B9CC)
